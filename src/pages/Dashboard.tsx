@@ -177,15 +177,7 @@ export default function Dashboard() {
               <TrendingUp className="h-8 w-8 text-red-600" />
             </div>
           </div>
-          {/* <div className="bg-white p-6 rounded-lg shadow-md">
-            <div className="flex items-center justify-between">
-              <div>
-                <p className="text-gray-600">Monthly Income</p>
-                <h2 className="text-2xl font-bold">${salary}</h2>
-              </div>
-              <DollarSign className="h-8 w-8 text-green-600" />
-            </div>
-          </div> */}
+          
           <div className="bg-white p-6 rounded-lg shadow-md">
             <div className="flex items-center justify-between">
               <div>
